@@ -1,6 +1,6 @@
 {
   "name": "mocha-middleware",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Express middleware to easily extend your devserver to run mocha tests in browser.",
   "main": "index.js",
   "scripts": {
