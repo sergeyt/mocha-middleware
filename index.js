@@ -34,7 +34,6 @@ module.exports = function (opts) {
 
 	const staticScripts = [
 		'/node_modules/jquery/dist/jquery.js',
-		'/node_modules/expect.js/index.js',
 		'/node_modules/mocha/mocha.js',
 	].map(f => `<script src="${f}"></script>`)
 	.join('\r\n');
